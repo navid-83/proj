@@ -1,0 +1,55 @@
+Version 3.2 HI-TECH Software Intermediate Code
+"19 C:\Users\Navid\Desktop\PIC_Hi-Tech_C_PIC16F87x_serial_comms_and_VB6_sample\error.c
+[v _error `Xui 1 e ]
+"23 C:\Users\Navid\Desktop\PIC_Hi-Tech_C_PIC16F87x_serial_comms_and_VB6_sample\error.c
+[v _error_count `Xuc + -> 10 `i -> 1 `i e ]
+[; ;always.h: 104: struct sixteen_bits
+[; ;always.h: 105: {
+[; ;always.h: 106: unsigned char bit0 :1;
+[; ;always.h: 107: unsigned char bit1 :1;
+[; ;always.h: 108: unsigned char bit2 :1;
+[; ;always.h: 109: unsigned char bit3 :1;
+[; ;always.h: 110: unsigned char bit4 :1;
+[; ;always.h: 111: unsigned char bit5 :1;
+[; ;always.h: 112: unsigned char bit6 :1;
+[; ;always.h: 113: unsigned char bit7 :1;
+[; ;always.h: 114: unsigned char bit8 :1;
+[; ;always.h: 115: unsigned char bit9 :1;
+[; ;always.h: 116: unsigned char bit10 :1;
+[; ;always.h: 117: unsigned char bit11 :1;
+[; ;always.h: 118: unsigned char bit12 :1;
+[; ;always.h: 119: unsigned char bit13 :1;
+[; ;always.h: 120: unsigned char bit14 :1;
+[; ;always.h: 121: unsigned char bit15 :1;
+[; ;always.h: 122: };
+[; ;always.h: 124: struct eight_bits
+[; ;always.h: 125: {
+[; ;always.h: 126: unsigned char bit0 :1;
+[; ;always.h: 127: unsigned char bit1 :1;
+[; ;always.h: 128: unsigned char bit2 :1;
+[; ;always.h: 129: unsigned char bit3 :1;
+[; ;always.h: 130: unsigned char bit4 :1;
+[; ;always.h: 131: unsigned char bit5 :1;
+[; ;always.h: 132: unsigned char bit6 :1;
+[; ;always.h: 133: unsigned char bit7 :1;
+[; ;always.h: 134: };
+[; ;always.h: 136: struct two_bytes
+[; ;always.h: 137: {
+[; ;always.h: 138: unsigned char low;
+[; ;always.h: 139: unsigned char high;
+[; ;always.h: 140: };
+[; ;always.h: 142: union wordtype
+[; ;always.h: 143: {
+[; ;always.h: 144: unsigned int word;
+[; ;always.h: 145: struct two_bytes byte;
+[; ;always.h: 146: struct sixteen_bits part;
+[; ;always.h: 147: };
+[; ;always.h: 149: union chartype
+[; ;always.h: 150: {
+[; ;always.h: 151: unsigned char byte;
+[; ;always.h: 152: struct eight_bits part;
+[; ;always.h: 153: };
+[; ;error.h: 11: extern bank1 unsigned int error;
+[; ;error.h: 15: extern bank1 unsigned char error_count[];
+[; ;error.c: 19: bank1 unsigned int error;
+[; ;error.c: 23: bank1 unsigned char error_count[(10 +1)];

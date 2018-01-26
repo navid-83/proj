@@ -1,0 +1,23 @@
+_delay: CODE, 2792 0 22
+_putch: CODE, 2814 0 22
+___ftpack: CODE, 3332 0 123
+_main: CODE, 1060 0 988
+___lwtoft: CODE, 2886 0 27
+_mputs: CODE, 3 0 26
+___lwdiv: CODE, 3052 0 78
+_lcd_goto: CODE, 2913 0 29
+___lldiv: CODE, 3222 0 110
+_send_config: CODE, 2750 0 21
+_isdigit: CODE, 2729 0 21
+_sprintf: CODE, 433 0 627
+_dis_num: CODE, 3586 0 510
+_e_pulse: CODE, 2836 0 25
+___lwmod: CODE, 2984 0 68
+_read_adc: CODE, 3455 0 131
+_send_char: CODE, 2861 0 25
+___ftmul: CODE, 195 0 238
+___llmod: CODE, 3130 0 92
+___wmul: CODE, 2942 0 42
+___fttol: CODE, 29 0 166
+_read_temp: CODE, 2713 0 16
+Total: 3407

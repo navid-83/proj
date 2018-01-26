@@ -1,0 +1,75 @@
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\obj\Debug\MaxiCOM.exe
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\obj\Debug\MaxiCOM.xml
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\obj\Debug\MaxiCOM.pdb
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\bin\Debug\MaxiCOM.exe.manifest
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\bin\Debug\MaxiCOM.application
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\bin\Debug\MaxiCOM.exe
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\bin\Debug\MaxiCOM.pdb
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\bin\Debug\MaxiCOM.xml
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\obj\Debug\MaxiCOM.MaxiTester.resources
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\obj\Debug\MaxiCOM.Resources.resources
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\obj\Debug\MaxiCOM.exe.manifest
+C:\Users\Ian\Documents\basic\serial vb\MaxiCOM\obj\Debug\MaxiCOM.application
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.exe
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.xml
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.pdb
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.exe.manifest
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.application
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.exe
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.pdb
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.xml
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.MaxiTester.resources
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.Resources.resources
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.exe.manifest
+C:\Users\Navid\Desktop\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.application
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.exe
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.xml
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.pdb
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.exe.manifest
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.application
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.exe
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.pdb
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.xml
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\ResolveAssemblyReference.cache
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.MaxiTester.resources
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.Resources.resources
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\GenerateResource.read.1.tlog
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\GenerateResource.write.1.tlog
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.exe.manifest
+C:\% Private\Education\Projects\Data Acquisition for PV\Work\Simulation\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.application
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.exe
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.xml
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.pdb
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.exe.manifest
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.application
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.exe
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.pdb
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\bin\Debug\MaxiCOM.xml
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.MaxiTester.resources
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.Resources.resources
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.exe.manifest
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\MaxiCOM\MaxiCOM\obj\Debug\MaxiCOM.application
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\obj\Debug\MaxiCOM.exe
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\obj\Debug\MaxiCOM.xml
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\obj\Debug\MaxiCOM.pdb
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\bin\Debug\MaxiCOM.exe.manifest
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\bin\Debug\MaxiCOM.application
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\bin\Debug\MaxiCOM.exe
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\bin\Debug\MaxiCOM.pdb
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\bin\Debug\MaxiCOM.xml
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\obj\Debug\MaxiCOM.MaxiTester.resources
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\obj\Debug\MaxiCOM.Resources.resources
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\obj\Debug\MaxiCOM.exe.manifest
+C:\Users\Navid\Desktop\FYP\7- UART VISUAL BASIC\New\MaxiCOM\obj\Debug\MaxiCOM.application
